@@ -1,0 +1,14 @@
+{
+	"version": "1.0.6",
+	"updated": "2020-09-03",
+	"slug": "wolf-photos",
+	"name": "Photos",
+	"packagename": "WolfPhotos",
+	"created": "2017-02-08",
+	"createdNice": "8th february 2017",
+	"description": "Add functionalities to attachement image: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.",
+	"link": "https://github.com/wolfthemes/wolf-photos",
+	"shortlink": "https://wlfthm.es/photos",
+	"author": "WolfThemes",
+	"authorURI": "https://wolfthemes.com"
+}

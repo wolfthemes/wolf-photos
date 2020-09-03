@@ -1,0 +1,16 @@
+{
+	"name": "wolfthemes/wolf-photos",
+	"description": "Add functionalities to attachement image: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.",
+	"type": "wordpress-plugin",
+	"homepage": "https://github.com/wolfthemes/wolf-photos",
+	"authors": [
+		{
+			"name": "WolfThemes",
+			"email": "contact@wolfthemes.com",
+			"homepage": "https://wolfthemes.com"
+		}
+	],
+	"require": {
+		"php": ">=5.6"
+	}
+}

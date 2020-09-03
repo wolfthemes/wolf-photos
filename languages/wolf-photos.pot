@@ -1,0 +1,458 @@
+# Copyright (C) 2020 WolfThemes
+# This file is distributed under the same license as the Photos package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Photos 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wolf-photos\n"
+"POT-Creation-Date: 2020-09-03 13:07:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/basic-theme/exclude/file.php:3
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/plugin-include/plugin-include.php:6
+msgid "Exclude"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/plugin-include/include/file.php:2
+msgid "Include"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/add-domain.php:2
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:2
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:3
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:4
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-domains.php:2
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-domains.php:3
+msgid "String"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:9
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:10
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:11
+msgid "1 Star"
+msgid_plural "%s Stars"
+msgstr[0] ""
+msgstr[1] ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/translator-comments/translator-comments.php:7
+#. translators: A single line translators comment.
+msgid "A"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/translator-comments/translator-comments.php:15
+#. translators: A multiline translators comment.
+msgid "B"
+msgstr ""
+
+#: inc/admin/class-wlfp-admin.php:77
+#: pack/wolf-photos/inc/admin/class-wlfp-admin.php:80
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:57 inc/admin/class-wlfp-options.php:128
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:57
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:128
+msgid "Choose an image"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:67
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:67
+msgid "Watermark"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:76
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:76
+msgid "Watermark Image"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:77
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:77
+msgid "Repeat Image"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:78
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:78
+msgid "Image Position"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:79
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:79
+msgid "Instructions"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:127
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:127
+msgid "Clear"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:138
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:138
+msgid "Repeat"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:139
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:139
+msgid "No Repeat"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:149
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:149
+msgid "Center Center"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:150
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:150
+msgid "Right Top"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:151
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:151
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:152
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:152
+msgid "Left Top"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:153
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:153
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:171
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:171
+msgid "Your file must be a PNG image."
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:174
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:174
+msgid ""
+"<strong>Once your watermark image is set, you will have to regenerate your "
+"image thumbnails using <a href=\"%s\" target=\"%s\">Force Generate "
+"Thumbnails</a> plugin.</strong>"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:188
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:188
+msgid "Photo Options"
+msgstr ""
+
+#: inc/admin/class-wlfp-options.php:193
+#: pack/wolf-photos/inc/admin/class-wlfp-options.php:193
+msgid "Save Changes"
+msgstr ""
+
+#: inc/admin/updater.php:434
+msgid ""
+"The plugin has been updated, but could not be reactivated. Please "
+"reactivate it manually."
+msgstr ""
+
+#: inc/admin/updater.php:435
+msgid "Plugin reactivated successfully."
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:275
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:275
+msgid "Source"
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:278
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:278
+msgid "A credit for the image."
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:282
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:282
+msgid "Source URL"
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:285
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:285
+msgid "A credit URL for the image."
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:291
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:291
+msgid "Add Watermark"
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:293
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:293
+msgid ""
+"You can upload your own watermark image in the <a href=\"%s\">watermark "
+"options panel</a>."
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:311
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:311
+msgid ""
+"Ther is no watermarked version of this image available yet. Use <a "
+"href=\"%s\" target=\"%s\">Force Generate Thumbnails</a> plugin to "
+"re-generate your thumbnails to create watermarked version of this image."
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:321
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:321
+msgid "Purchase URL"
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:324
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:324
+msgid "Any URL where the Full Resolution Photo can be Purchased."
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:329
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:329
+msgid "Redirect"
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:330
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:330
+msgid "Redirect Single Attachment Page to Buy URL"
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:340
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:340
+msgid "Free Download"
+msgstr ""
+
+#: inc/admin/wlfp-admin-functions.php:341
+#: pack/wolf-photos/inc/admin/wlfp-admin-functions.php:341
+msgid "Allow Full Size Image Free Download (will overwrite purchase URL)"
+msgstr ""
+
+#: inc/frontend/wlfp-functions.php:134
+#: pack/wolf-photos/inc/frontend/wlfp-functions.php:146
+msgid "Search for:"
+msgstr ""
+
+#: inc/frontend/wlfp-functions.php:309
+msgid "Search results for %s"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:17
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:17
+msgid "Photos Categories"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:18
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:18
+msgid "Photos Category"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:19
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:19
+msgid "Search Photos Categories"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:20
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:20
+msgid "Popular Photos Categories"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:21
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:21
+msgid "All Photos Categories"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:22
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:22
+msgid "Parent Photos Category"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:23
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:23
+msgid "Parent Photos Category:"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:24
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:24
+msgid "Edit Photos Category"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:25
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:25
+msgid "Update Photos Category"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:26
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:26
+msgid "Add New Photos Category"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:27
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:27
+msgid "New Photos Category"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:28
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:28
+msgid "Separate photo categories with commas"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:29
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:29
+msgid "Add or remove photo categories"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:30
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:30
+msgid "Choose from the most used photo categories"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:31
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:31
+msgid "Categories"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:49
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:49
+msgid "Photos Tags"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:50
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:50
+msgid "Photos Tag"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:51
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:51
+msgid "Search Photos Tags"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:52
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:52
+msgid "Popular Photos Tags"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:53
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:53
+msgid "All Photos Tags"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:54
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:54
+msgid "Parent Photos Tag"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:55
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:55
+msgid "Parent Photos Tag:"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:56
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:56
+msgid "Edit Photos Tag"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:57
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:57
+msgid "Update Photos Tag"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:58
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:58
+msgid "Add New Photos Tag"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:59
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:59
+msgid "New Photos Tag"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:60
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:60
+msgid "Separate photo tags with commas"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:61
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:61
+msgid "Add or remove photo tags"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:62
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:62
+msgid "Choose from the most used photo tags"
+msgstr ""
+
+#: inc/wlfp-register-taxonomy.php:63
+#: pack/wolf-photos/inc/wlfp-register-taxonomy.php:63
+msgid "Tags"
+msgstr ""
+
+#: pack/wolf-photos/templates/taxonomy-photo_category.php:23
+#: pack/wolf-photos/templates/taxonomy-photo_tag.php:23
+#: templates/taxonomy-photo_category.php:23 templates/taxonomy-photo_tag.php:23
+msgid "No photo found."
+msgstr ""
+
+#: pack/wolf-photos/wolf-photos.php:98 pack/wolf-photos/wolf-photos.php:105
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Photos"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/wolfthemes/wolf-photos"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Add functionalities to attachement image: category and tags, custom fields "
+"and watermark. Designed to be used by WolfThemes Themes that support custom "
+"photo features.: category and tags, custom fields and watermark. Designed "
+"to be used by WolfThemes Themes that support custom photo features."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WolfThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wolfthemes.com"
+msgstr ""
+
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:6
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:7
+#: dev/node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-all-domains.php:8
+msgctxt "a string"
+msgid "String"
+msgstr ""
+
+#: inc/frontend/wlfp-functions.php:135
+#: pack/wolf-photos/inc/frontend/wlfp-functions.php:147
+msgctxt "placeholder"
+msgid "Search photos&hellip;"
+msgstr ""
+
+#: inc/frontend/wlfp-functions.php:135
+#: pack/wolf-photos/inc/frontend/wlfp-functions.php:147
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: inc/frontend/wlfp-functions.php:136
+#: pack/wolf-photos/inc/frontend/wlfp-functions.php:148
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
