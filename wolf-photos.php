@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Photos
  * Plugin URI: https://github.com/wolfthemes/wolf-photos
- * Description: Add functionalities to attachement image: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.
- * Version: 1.0.6
+ * Description: Add functionalities to attachement image: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.
+ * Version: 1.0.7
  * Author: WolfThemes
  * Author URI: https://wolfthemes.com
  * Requires at least: 5.0
@@ -45,7 +45,7 @@ if ( ! class_exists( 'Wolf_Photos' ) ) {
 	 * Contains the main functions for Wolf_Photos
 	 *
 	 * @class Wolf_Photos
-	 * @version 1.0.6
+	 * @version 1.0.7
 	 * @since 1.0.0
 	 */
 	class Wolf_Photos {
@@ -53,7 +53,7 @@ if ( ! class_exists( 'Wolf_Photos' ) ) {
 		/**
 		 * @var string
 		 */
-		public $version = '1.0.6';
+		public $version = '1.0.7';
 
 		/**
 		 * @var Photos The single instance of the class
@@ -331,11 +331,11 @@ if ( ! class_exists( 'Wolf_Photos' ) ) {
 				include_once 'inc/admin/updater.php';
 			}
 
-			$repo = 'wolfthemes/wolf-metaboxes';
+			$repo = 'wolfthemes/wolf-photos';
 
 			$config = array(
 				'slug' => plugin_basename( __FILE__ ),
-				'proper_folder_name' => 'wolf-metaboxes',
+				'proper_folder_name' => 'wolf-photos',
 				'api_url' => 'https://api.github.com/repos/' . $repo . '',
 				'raw_url' => 'https://raw.github.com/' . $repo . '/master/',
 				'github_url' => 'https://github.com/' . $repo . '',

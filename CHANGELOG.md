@@ -1,5 +1,9 @@
 # Changelog
 
+#### 11th September 2020 - Version 1.0.7
+
+-   Fix: Repo URL typo
+
 #### 3rd September 2020 - Version 1.0.6
 
 -   Other: Move plugin to Github

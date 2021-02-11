@@ -1,14 +1,14 @@
-# Copyright (C) 2020 WolfThemes
+# Copyright (C) 2021 WolfThemes
 # This file is distributed under the same license as the Photos package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Photos 1.0.6\n"
+"Project-Id-Version: Photos 1.0.7\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wolf-photos\n"
-"POT-Creation-Date: 2020-09-03 13:07:51+00:00\n"
+"POT-Creation-Date: 2021-02-11 12:42:09+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "X-Generator: grunt-wp-i18n 0.5.4\n"
@@ -61,7 +61,7 @@ msgid "B"
 msgstr ""
 
 #: inc/admin/class-wlfp-admin.php:77
-#: pack/wolf-photos/inc/admin/class-wlfp-admin.php:80
+#: pack/wolf-photos/inc/admin/class-wlfp-admin.php:77
 msgid "Settings"
 msgstr ""
 
@@ -159,13 +159,13 @@ msgstr ""
 msgid "Save Changes"
 msgstr ""
 
-#: inc/admin/updater.php:434
+#: inc/admin/updater.php:434 pack/wolf-photos/inc/admin/updater.php:434
 msgid ""
 "The plugin has been updated, but could not be reactivated. Please "
 "reactivate it manually."
 msgstr ""
 
-#: inc/admin/updater.php:435
+#: inc/admin/updater.php:435 pack/wolf-photos/inc/admin/updater.php:435
 msgid "Plugin reactivated successfully."
 msgstr ""
 
@@ -240,11 +240,12 @@ msgid "Allow Full Size Image Free Download (will overwrite purchase URL)"
 msgstr ""
 
 #: inc/frontend/wlfp-functions.php:134
-#: pack/wolf-photos/inc/frontend/wlfp-functions.php:146
+#: pack/wolf-photos/inc/frontend/wlfp-functions.php:134
 msgid "Search for:"
 msgstr ""
 
 #: inc/frontend/wlfp-functions.php:309
+#: pack/wolf-photos/inc/frontend/wlfp-functions.php:309
 msgid "Search results for %s"
 msgstr ""
 
@@ -404,10 +405,6 @@ msgstr ""
 msgid "No photo found."
 msgstr ""
 
-#: pack/wolf-photos/wolf-photos.php:98 pack/wolf-photos/wolf-photos.php:105
-msgid "Cheatin&#8217; huh?"
-msgstr ""
-
 #. Plugin Name of the plugin/theme
 msgid "Photos"
 msgstr ""
@@ -421,7 +418,11 @@ msgid ""
 "Add functionalities to attachement image: category and tags, custom fields "
 "and watermark. Designed to be used by WolfThemes Themes that support custom "
 "photo features.: category and tags, custom fields and watermark. Designed "
-"to be used by WolfThemes Themes that support custom photo features."
+"to be used by WolfThemes Themes that support custom photo features.: "
+"category and tags, custom fields and watermark. Designed to be used by "
+"WolfThemes Themes that support custom photo features.: category and tags, "
+"custom fields and watermark. Designed to be used by WolfThemes Themes that "
+"support custom photo features."
 msgstr ""
 
 #. Author of the plugin/theme
@@ -440,19 +441,19 @@ msgid "String"
 msgstr ""
 
 #: inc/frontend/wlfp-functions.php:135
-#: pack/wolf-photos/inc/frontend/wlfp-functions.php:147
+#: pack/wolf-photos/inc/frontend/wlfp-functions.php:135
 msgctxt "placeholder"
 msgid "Search photos&hellip;"
 msgstr ""
 
 #: inc/frontend/wlfp-functions.php:135
-#: pack/wolf-photos/inc/frontend/wlfp-functions.php:147
+#: pack/wolf-photos/inc/frontend/wlfp-functions.php:135
 msgctxt "label"
 msgid "Search for:"
 msgstr ""
 
 #: inc/frontend/wlfp-functions.php:136
-#: pack/wolf-photos/inc/frontend/wlfp-functions.php:148
+#: pack/wolf-photos/inc/frontend/wlfp-functions.php:136
 msgctxt "submit button"
 msgid "Search"
 msgstr ""
