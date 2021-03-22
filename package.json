@@ -1,0 +1,8 @@
+{
+	"devDependencies": {
+		"stylelint": "^13.7.1",
+		"stylelint-a11y": "^1.2.3",
+		"stylelint-config-wordpress": "^17.0.0",
+		"prettier": "npm:wp-prettier@^2.0.0"
+	}
+}
