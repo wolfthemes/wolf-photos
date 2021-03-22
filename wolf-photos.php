@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Photos
  * Plugin URI: https://github.com/wolfthemes/wolf-photos
- * Description: Add functionalities to attachement image: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.
+ * Description: Add functionalities to attachement image: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.: category and tags, custom fields and watermark. Designed to be used by WolfThemes Themes that support custom photo features.
  * Version: 1.0.7
  * Author: WolfThemes
  * Author URI: https://wolfthemes.com
